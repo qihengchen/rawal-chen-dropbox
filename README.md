@@ -1,7 +1,7 @@
 # dropbox
 Final project for cs166
 
-Authentication - Sergio; 
+Authentication - Qiheng; 
 Database management - Nisarg; 
-List(), Mkdir(), PWD(), CD() - Sergio; 
+List(), Mkdir(), PWD(), CD() - Qiheng; 
 Upload(), Download(), Remove() - Nisarg
